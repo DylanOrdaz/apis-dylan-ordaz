@@ -1,2 +1,2 @@
 
-hub.docker.com/r/nodejscn/node
+https://hub.docker.com/repository/docker/a01327199/my-node
